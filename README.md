@@ -1,4 +1,4 @@
-# Scenario 01 — Minesweeper
+# Scenario 13 — Minesweeper
 
 A modular terminal Minesweeper game with hidden mines, reveal expansion, and flags.
 
